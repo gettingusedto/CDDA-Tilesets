@@ -145,6 +145,18 @@
         { "item": "corpse_ash", "sprite": [ { "id": "brazier_ashes", "weight": 1 } ], "layer": 80 }
       ],
       "field_variants": [ { "field": "fd_fire", "sprite": [ { "id": "f_brazier_fire", "weight": 3 } ] } ]
+    },
+    {
+      "context": "f_planter_mature",
+      "item_variants": [
+        { "item": "seed_carrot", "sprite": [ { "id": "f_planter_carrot_mature", "weight": 1 } ], "layer": 90 }
+      ]
+    },
+    {
+      "context": "f_planter_harvest",
+      "item_variants": [
+        { "item": "seed_carrot", "sprite": [ { "id": "f_planter_carrot_harvest", "weight": 1 } ], "layer": 90 }
+      ]
     }
   ]
 }
