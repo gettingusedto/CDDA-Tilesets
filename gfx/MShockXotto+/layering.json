@@ -158,7 +158,11 @@
         { "item": "wheat", "sprite": [ { "id": "f_planter_cereal_mature", "weight": 1 } ], "layer": 90 },
         { "item": "seed_wheat", "sprite": [ { "id": "f_planter_cereal_mature", "weight": 1 } ], "layer": 90 },
         { "item": "winter_wheat", "sprite": [ { "id": "f_planter_cereal_mature", "weight": 1 } ], "layer": 90 },
-        { "item": "seed_red_winter_wheat", "sprite": [ { "id": "f_planter_cereal_mature", "weight": 1 } ], "layer": 90 },
+        {
+          "item": "seed_red_winter_wheat",
+          "sprite": [ { "id": "f_planter_cereal_mature", "weight": 1 } ],
+          "layer": 90
+        },
         { "item": "seed_mushroom_morel", "sprite": [ { "id": "f_planter_morel_mature", "weight": 1 } ], "layer": 90 }
       ]
     },
@@ -174,26 +178,30 @@
         { "item": "wheat", "sprite": [ { "id": "f_planter_cereal_harvest", "weight": 1 } ], "layer": 90 },
         { "item": "seed_wheat", "sprite": [ { "id": "f_planter_cereal_harvest", "weight": 1 } ], "layer": 90 },
         { "item": "winter_wheat", "sprite": [ { "id": "f_planter_cereal_harvest", "weight": 1 } ], "layer": 90 },
-        { "item": "seed_red_winter_wheat", "sprite": [ { "id": "f_planter_cereal_harvest", "weight": 1 } ], "layer": 90 },
+        {
+          "item": "seed_red_winter_wheat",
+          "sprite": [ { "id": "f_planter_cereal_harvest", "weight": 1 } ],
+          "layer": 90
+        },
         { "item": "seed_mushroom_morel", "sprite": [ { "id": "f_planter_morel_harvest", "weight": 1 } ], "layer": 90 }
       ]
     },
-        {
+    {
       "context": "f_planter_seedling",
-      "item_variants": [
-        { "item": "seed_mushroom_morel", "sprite": [ { "id": "f_planter_morel_seedling", "weight": 1 } ], "layer": 90 }
-      ]
+      "item_variants": [ { "item": "seed_mushroom_morel", "sprite": [ { "id": "f_planter_morel_seedling", "weight": 1 } ], "layer": 90 } ]
     },
     {
       "context": "f_planter_seed",
-      "item_variants": [
-        { "item": "seed_mushroom_morel", "sprite": [ { "id": "f_planter_morel_seed", "weight": 1 } ], "layer": 90 }
-      ]
+      "item_variants": [ { "item": "seed_mushroom_morel", "sprite": [ { "id": "f_planter_morel_seed", "weight": 1 } ], "layer": 90 } ]
     },
     {
       "context": "f_planter_unharvested_overgrown",
       "item_variants": [
-        { "item": "seed_mushroom_morel", "sprite": [ { "id": "f_planter_morel_unharvested_overgrown", "weight": 1 } ], "layer": 90 }
+        {
+          "item": "seed_mushroom_morel",
+          "sprite": [ { "id": "f_planter_morel_unharvested_overgrown", "weight": 1 } ],
+          "layer": 90
+        }
       ]
     }
   ]
