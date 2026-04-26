@@ -187,7 +187,7 @@
     {
       "context": "f_planter_seed",
       "item_variants": [
-        { "item": "seed_mushroom_morel", "sprite": [ { "id": "f_planter_morel_seedling", "weight": 1 } ], "layer": 90 }
+        { "item": "seed_mushroom_morel", "sprite": [ { "id": "f_planter_morel_seed", "weight": 1 } ], "layer": 90 }
       ]
     },
     {
