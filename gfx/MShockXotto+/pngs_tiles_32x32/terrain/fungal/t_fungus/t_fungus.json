@@ -3,6 +3,8 @@
     "fg": [ ],
     "bg": [
         { "weight": 1, "sprite": "t_fungus_0" },
-        { "weight": 1, "sprite": "t_fungus_1" }
+        { "weight": 1, "sprite": "t_fungus_1" },
+        { "weight": 1, "sprite": "t_fungus_2" },
+        { "weight": 1, "sprite": "t_fungus_3" }
     ]
   }
