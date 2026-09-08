@@ -1,5 +1,5 @@
 {
-  "id": "t_fungus",
+  "id": [ "t_fungus", "t_fungus_floor_out", "t_fungus_floor_sup", "t_fungus_floor_in" ],
   "fg": "t_fungus",
   "bg": [ ]
 }
