@@ -5,7 +5,7 @@
   },
   {
     "id": "line_target",
-    "fg": "cursor_white",
+    "fg": "line_target",
     "bg": ""
   }
 ]
