@@ -12,7 +12,7 @@
     "furniture_tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_x": 0, "sprite_offset_y": -44 }
   },
   {
-    "cursor.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_x": 0, "sprite_offset_y": -32 }
+    "cursor.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_x": 0, "sprite_offset_y": -64 }
   },
   {
     "large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -44 }
