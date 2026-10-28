@@ -3,8 +3,8 @@
   "fg": [
     "f_locker_se",
     "f_locker_ne",
+    "f_locker_nw",
     "f_locker_sw",
-    "f_locker_nw"
   ],
   "rotates": true
 }
