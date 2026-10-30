@@ -2,8 +2,8 @@
   "id": "f_locker",
   "fg": [
     "f_locker_s",
-    "f_locker_n",
     "f_locker_w",
+    "f_locker_n",
     "f_locker_e"
   ],
   "rotates": true
