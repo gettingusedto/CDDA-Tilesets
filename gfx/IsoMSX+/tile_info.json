@@ -21,6 +21,9 @@
     "terrain.png": { "sprite_width": 32, "sprite_height": 20, "sprite_offset_x": 0, "sprite_offset_y": 4 }
   },
   {
+    "terrain_tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_x": 0, "sprite_offset_y": -40 }
+  },
+  {
     "cursor.png": { "sprite_width": 32, "sprite_height": 32, "sprite_offset_x": 0, "sprite_offset_y": 10 }
   },
   {
