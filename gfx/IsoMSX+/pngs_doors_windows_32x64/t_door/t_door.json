@@ -23,5 +23,10 @@
     "id": "t_door_boarded",
     "multitile": true,
     "fg": ["t_door_boarded_w", "t_door_boarded_e"]
+  },
+  {
+    "id": "t_door_frame",
+    "multitile": true,
+    "fg": ["t_door_frame_w", "t_door_frame_e"]
   }
 ]
